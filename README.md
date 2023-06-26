@@ -1,5 +1,6 @@
-# theGamingRoom
-## The Gaming Room - Software Design Document Summary
+# The Gaming Room
+## Draw It or Lose It - Software Design Document
+### Summary
 
 The Gaming Room is a company seeking to design a cross-platform web game called "Draw It or 
 Lose It." The client's objective is to create a multiplayer game where teams compete in four-
